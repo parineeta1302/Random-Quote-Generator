@@ -392,6 +392,7 @@ nav{
     background-color: transparent;
 }
 
+
 .hamburger.open #bar3{
     background-color: #fff;
     transform: rotate(-45deg) translate(6px, -5px);
